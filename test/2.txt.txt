@@ -1,0 +1,3 @@
+gene1	4
+gene3	5
+gene4	6

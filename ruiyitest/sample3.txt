@@ -1,0 +1,598 @@
+Bacteroidales bacterium M9	1.07E-05
+Methanolacinia paynteri	1.09E-05
+Eggerthella sp. 1_3_56FAA	1.09E-05
+Holdemanella biformis	1.10E-05
+Clostridium sp. CAG:470	1.10E-05
+Eubacteriaceae bacterium CHKCI004	1.11E-05
+Burkholderiales bacterium YL45	1.11E-05
+Clostridium sp. 1_1_41A1FAA	1.12E-05
+Bifidobacterium aesculapii	1.13E-05
+Xanthomonas citri	1.13E-05
+Mycobacterium phlei	1.14E-05
+Enterobacter aerogenes	1.15E-05
+Eikenella corrodens	1.16E-05
+Necropsobacter rosorum	1.17E-05
+Clostridium bolteae CAG:59	1.17E-05
+Lachnospiraceae bacterium VE202-12	1.18E-05
+Ornithobacterium rhinotracheale	1.19E-05
+Escherichia phage phiV10	1.24E-05
+Christensenella sp. Marseille-P2437	1.24E-05
+Pseudomonas veronii	1.25E-05
+Lachnospiraceae bacterium CAG:215	1.26E-05
+Komagataella pastoris	1.28E-05
+Clostridiales bacterium VE202-14	1.28E-05
+Escherichia sp. KTE114	1.29E-05
+Ruegeria atlantica	1.30E-05
+Lachnospiraceae bacterium 1_4_56FAA	1.31E-05
+Lachnospiraceae bacterium VE202-23	1.31E-05
+Bifidobacterium longum	1.31E-05
+Marinomonas spartinae	1.32E-05
+Eggerthella sp. HGA1	1.35E-05
+Streptococcus orisasini	1.37E-05
+Lachnospiraceae bacterium 3_1_57FAA_CT1	1.37E-05
+Shigella phage SfIV	1.37E-05
+Clostridiales bacterium VE202-29	1.39E-05
+Acinetobacter sp. MII	1.40E-05
+Anaerobaculum hydrogeniformans	1.40E-05
+Streptococcus pneumoniae	1.41E-05
+Labrenzia alba	1.41E-05
+Thermotogales bacterium Thermo_02	1.42E-05
+Roseburia inulinivorans CAG:15	1.42E-05
+Ruminococcus sp. DSM 100440	1.44E-05
+Clostridium sp. CAG:780	1.45E-05
+Ruminococcus sp. CAG:90	1.46E-05
+Citrobacter sp. MGH103	1.47E-05
+Sutterella wadsworthensis CAG:135	1.47E-05
+[Clostridium] scindens	1.51E-05
+Cetobacterium somerae	1.51E-05
+[Clostridium] saccharogumia	1.52E-05
+Lachnospiraceae bacterium 5_1_57FAA	1.56E-05
+Prevotella saccharolytica	1.58E-05
+Leuconostoc sp. DORA_2	1.58E-05
+Erysipelotrichaceae bacterium 2_2_44A	1.59E-05
+Marvinbryantia formatexigens	1.60E-05
+Marinomonas gallaica	1.63E-05
+Streptococcus parasanguinis	1.64E-05
+Lactobacillus ruminis	1.64E-05
+Mesorhizobium plurifarium	1.65E-05
+Staphylococcus phage SPbeta-like	1.67E-05
+Veillonella sp. 3_1_44	1.71E-05
+Enterococcus cecorum	1.72E-05
+Clostridia bacterium UC5.1-2E1	1.75E-05
+Streptococcus salivarius CAG:79	1.80E-05
+Streptococcus pyogenes	1.81E-05
+Helicobacter heilmannii	1.81E-05
+Porphyromonadaceae bacterium GM3	1.82E-05
+Tannerella forsythia	1.85E-05
+Clostridium phage vB_CpeS-CP51	1.85E-05
+Lactobacillus equigenerosi	1.89E-05
+Helicobacter ailurogastricus	1.89E-05
+Streptococcus sp. SR4	1.90E-05
+Campylobacter jejuni	1.90E-05
+Veillonella sp. oral taxon 158	1.90E-05
+Mitsuokella multacida	1.91E-05
+Necropsobacter massiliensis	1.94E-05
+Prevotella maculosa	1.95E-05
+Saccharomyces pastorianus	1.96E-05
+Clostridiales bacterium VE202-21	1.99E-05
+Eubacterium desmolans	2.01E-05
+[Clostridium] innocuum	2.02E-05
+Ruminococcaceae bacterium 668	2.04E-05
+Coprobacillus sp. 8_2_54BFAA	2.04E-05
+Porphyromonadaceae bacterium H1	2.05E-05
+Butyricicoccus pullicaecorum	2.06E-05
+Streptococcus sp. 449_SSPC	2.07E-05
+Coprococcus sp. ART55/1	2.07E-05
+Subdoligranulum variabile	2.11E-05
+Clostridium bartlettii CAG:1329	2.11E-05
+Clostridiales bacterium VE202-06	2.11E-05
+Weissella viridescens	2.12E-05
+Salmonella enterica	2.13E-05
+Eubacterium sp. CAG:86	2.13E-05
+Bacteroides sp. CAG:770	2.14E-05
+Bacteroides sp. CAG:462	2.14E-05
+Streptococcus pasteurianus	2.15E-05
+Acetivibrio ethanolgignens	2.17E-05
+Ruminococcus sp. CAG:579	2.19E-05
+Prevotella sp. CAG:487	2.19E-05
+Eubacterium sp. ER2	2.21E-05
+Citrobacter sp. JT3	2.22E-05
+Nereida ignava	2.24E-05
+Nautella italica	2.24E-05
+Clostridium sp. KLE 1755	2.26E-05
+Haemophilus influenzae	2.26E-05
+Thalassobius mediterraneus	2.27E-05
+Aggregatibacter segnis	2.28E-05
+Parvimonas micra	2.31E-05
+Clostridiales bacterium VE202-13	2.31E-05
+Clostridium sp. CAG:122	2.33E-05
+Coprococcus eutactus	2.34E-05
+Bifidobacterium bifidum	2.37E-05
+Christensenella minuta	2.41E-05
+Weeksella sp. FF8	2.41E-05
+Bifidobacterium pseudocatenulatum CAG:263	2.42E-05
+Bacteroidales bacterium KA00251	2.42E-05
+Enterobacteria phage HK97	2.43E-05
+Enterobacter sp. MGH 7	2.44E-05
+Firmicutes bacterium CAG:41	2.47E-05
+Eubacterium rectale CAG:36	2.48E-05
+Prevotella sp. MSX73	2.49E-05
+Coprobacter secundus	2.50E-05
+Clostridiales bacterium VE202-27	2.53E-05
+Burkholderia sp. K4410.MGS-135	2.55E-05
+Prevotella stercorea CAG:629	2.56E-05
+Enterobacteria phage mEp043 c-1	2.57E-05
+Eggerthella lenta	2.58E-05
+Eubacterium sp. CAG:252	2.60E-05
+Citrobacter koseri	2.61E-05
+Erysipelotrichaceae bacterium 3_1_53	2.62E-05
+Parabacteroides sp. ASF519	2.64E-05
+Erysipelotrichaceae bacterium 5_2_54FAA	2.64E-05
+Prevotella sp. CAG:1031	2.64E-05
+Escherichia sp. TW15838	2.67E-05
+Clostridium sp. CL-2	2.68E-05
+Shigella sp. PAMC 28760	2.69E-05
+Bacteroides eggerthii CAG:109	2.73E-05
+Bacteroides sp. 14(A)	2.76E-05
+Veillonella sp. 6_1_27	2.77E-05
+Roseburia sp. CAG:18	2.77E-05
+Prevotella dentalis	2.80E-05
+Escherichia sp. TW10509	2.82E-05
+Ruminococcus bromii	2.82E-05
+Bacteroidales bacterium Bact_03	2.90E-05
+Enterobacteria phage HK633	2.91E-05
+Atribacteria bacterium JGI 0000014-F07	2.91E-05
+Bacteroides sp. CAG:98	2.92E-05
+Clostridiales bacterium VE202-09	2.92E-05
+Blautia hansenii	2.93E-05
+Lachnospiraceae bacterium 6_1_63FAA	2.96E-05
+Bacteroides faecis CAG:32	2.98E-05
+Bacteroidales bacterium Barb4	3.01E-05
+Veillonella dispar	3.06E-05
+Clostridiales bacterium VE202-28	3.07E-05
+Morganella morganii	3.07E-05
+Bacteroidales bacterium KA00344	3.09E-05
+Enterobacteria phage SfI	3.11E-05
+Hallella seregens	3.13E-05
+Clostridiales bacterium 1_7_47FAA	3.13E-05
+Ruminococcus sp. A254.MGS-108	3.16E-05
+Prevotella sp. CAG:891	3.16E-05
+Prevotella nanceiensis	3.17E-05
+Prevotella sp. CAG:474	3.17E-05
+Escherichia sp. KTE159	3.20E-05
+Holdemania massiliensis	3.21E-05
+Clostridium sp. FS41	3.24E-05
+Clostridia bacterium UC5.1-2F7	3.25E-05
+Intestinimonas sp. GD2	3.30E-05
+Enterobacteria phage SfV	3.30E-05
+[Haemophilus] ducreyi	3.31E-05
+Streptococcus gallolyticus	3.34E-05
+Clostridium sp. CAG:440	3.37E-05
+Escherichia albertii	3.39E-05
+Prevotella sp. ICM33	3.42E-05
+Streptococcus suis	3.44E-05
+Prevotella histicola	3.46E-05
+Clostridiales bacterium VE202-08	3.47E-05
+Parabacteroides johnsonii CAG:246	3.50E-05
+Prevotella scopos	3.50E-05
+Clostridium sp. CAG:221	3.62E-05
+Prevotella sp. P5-119	3.69E-05
+Prevotella sp. SN19	3.70E-05
+Dorea formicigenerans CAG:28	3.72E-05
+Bacteroides intestinalis CAG:315	3.74E-05
+Bacteroides sp. CAG:754	3.82E-05
+Levyella massiliensis	3.86E-05
+Salmonella phage epsilon34	3.93E-05
+Sutterella parvirubra	4.11E-05
+Fusobacterium mortiferum	4.13E-05
+Faecalitalea cylindroides	4.31E-05
+Enterobacteria phage P1	4.34E-05
+Prevotella salivae	4.35E-05
+Escherichia sp. 4_1_40B	4.36E-05
+Bacteroidales bacterium H8	4.38E-05
+Prevotella falsenii	4.39E-05
+Anaerotruncus colihominis	4.42E-05
+Ruminococcus torques CAG:61	4.42E-05
+Klebsiella sp. KGM-IMP216	4.48E-05
+[Eubacterium] eligens	4.55E-05
+Ruminococcaceae bacterium cv2	4.64E-05
+Clostridium sp. 7_3_54FAA	4.73E-05
+Clostridia bacterium UC5.1-2G4	4.73E-05
+Bacteroidales bacterium H2	4.74E-05
+Prevotella buccae	4.75E-05
+Tannerella sp. oral taxon BU063	4.79E-05
+Sutterella sp. CAG:351	4.87E-05
+Intestinibacter bartlettii	4.97E-05
+Prevotella sp. HJM029	4.98E-05
+Oscillibacter sp. KLE 1728	4.98E-05
+Eggerthella sp. CAG:1427	4.99E-05
+Prevotella pleuritidis	5.10E-05
+Bacteroides salanitronis	5.11E-05
+Erysipelotrichaceae bacterium 6_1_45	5.12E-05
+Prevotella oris	5.15E-05
+Bacteroides cellulosilyticus CAG:158	5.16E-05
+Peptoclostridium difficile	5.17E-05
+Clostridiales bacterium KLE1615	5.17E-05
+Oscillibacter sp. KLE 1745	5.24E-05
+Bacteroidaceae bacterium MS4	5.25E-05
+Lachnoanaerobaculum sp. MSX33	5.32E-05
+Bacteroidales bacterium H1	5.34E-05
+Ruminococcus sp. UNK.MGS-30	5.36E-05
+Klebsiella sp. 4_1_44FAA	5.39E-05
+Lachnospiraceae bacterium TF01-11	5.42E-05
+Klebsiella sp. AA405	5.52E-05
+Carnobacterium sp. N15.MGS-251	5.61E-05
+Prevotella melaninogenica	5.64E-05
+Eubacterium eligens CAG:72	5.66E-05
+Porphyromonadaceae bacterium KA00676	5.70E-05
+Dorea longicatena CAG:42	5.72E-05
+Tannerella sp. CAG:118	5.78E-05
+Hungatella hathewayi	5.82E-05
+[Clostridium] asparagiforme	5.83E-05
+Enterobacteriaceae bacterium 291_EBAC	5.87E-05
+Clostridia bacterium UC5.1-1F8	5.89E-05
+Enterobacteria phage cdtI	5.91E-05
+Clostridium sp. A254.MGS-251	5.93E-05
+Clostridium sp. CAG:91	6.00E-05
+[Bacteroides] pectinophilus	6.00E-05
+Clostridia bacterium UC5.1-1D4	6.01E-05
+uncultured Clostridium sp.	6.05E-05
+Alistipes sp. N15.MGS-157	6.05E-05
+Coprobacter fastidiosus	6.11E-05
+Prevotella sp. CAG:924	6.12E-05
+Fusobacterium varium	6.17E-05
+Streptococcus dysgalactiae	6.21E-05
+Prevotella sp. HUN102	6.21E-05
+Clostridia bacterium UC5.1-1E11	6.31E-05
+Clostridiales bacterium VE202-16	6.31E-05
+Dorea sp. AGR2135	6.35E-05
+Klebsiella sp. MS 92-3	6.35E-05
+Ralstonia solanacearum	6.38E-05
+Prevotella sp. CAG:279	6.42E-05
+Butyricicoccus sp. K4410.MGS-46	6.43E-05
+Prevotella denticola	6.47E-05
+Clostridium sp. M62/1	6.49E-05
+Shigella dysenteriae	6.49E-05
+Roseburia faecis	6.52E-05
+Subdoligranulum sp. 4_3_54A2FAA	6.56E-05
+Streptococcus salivarius	6.64E-05
+Enterobacteria phage HK629	6.66E-05
+Butyricicoccus sp. N54.MGS-46	6.67E-05
+Enterobacteria phage HK630	6.69E-05
+Clostridia bacterium UC5.1-1D1	6.72E-05
+Lactobacillus sp. N15.MGS-260	6.74E-05
+Solobacterium moorei	6.82E-05
+Eubacterium ramulus	6.83E-05
+Butyricicoccus sp. N15.MGS-46	6.84E-05
+Alistipes sp. Marseille-P2431	6.87E-05
+Clostridium sp. L2-50	6.89E-05
+Blautia producta	6.93E-05
+Ruminococcaceae bacterium 585-1	6.95E-05
+Terrisporobacter othiniensis	7.00E-05
+Veillonella parvula	7.08E-05
+[Clostridium] citroniae	7.09E-05
+Lachnoanaerobaculum sp. OBRC5-5	7.12E-05
+Bifidobacterium pseudocatenulatum	7.21E-05
+Sutterellaceae bacterium ND3	7.23E-05
+Escherichia sp. 1_1_43	7.27E-05
+[Clostridium] glycyrrhizinilyticum	7.28E-05
+Shigella sp. SF-2015	7.38E-05
+Clostridium sp. GD3	7.42E-05
+Clostridia bacterium UC5.1-1F7	7.42E-05
+Phascolarctobacterium succinatutens	7.47E-05
+Ruminococcaceae bacterium D16	7.53E-05
+Eubacterium sp. SN18	7.55E-05
+Escherichia phage TL-2011b	7.60E-05
+Sutterella wadsworthensis	7.65E-05
+Enterobacteria phage HK446	7.77E-05
+Ruminococcus sp. JC304	7.81E-05
+Bacteroides faecichinchillae	7.98E-05
+Shigella flexneri	8.09E-05
+Blautia sp. KLE 1732	8.15E-05
+Eubacterium sp. 3_1_31	8.15E-05
+Alistipes senegalensis	8.18E-05
+Salmonella phage FSL SP-004	8.32E-05
+Shigella boydii	8.32E-05
+Clostridia bacterium UC5.1-2H11	8.35E-05
+Alistipes sp. CHKCI003	8.39E-05
+Clostridium sp. JCC	8.61E-05
+Shigella sonnei	8.63E-05
+Bilophila sp. 4_1_30	8.70E-05
+Lachnospiraceae bacterium 8_1_57FAA	8.73E-05
+Lachnospiraceae bacterium 1_1_57FAA	8.87E-05
+Prevotella sp. P5-60	8.92E-05
+Coprobacillus sp. 8_1_38FAA	9.26E-05
+Blautia hydrogenotrophica	9.32E-05
+Ruminococcus gnavus CAG:126	9.36E-05
+Prevotella sp. S7 MS 2	9.40E-05
+Enterobacteria phage IME10	9.48E-05
+Ruminococcus sp. SR1/5	9.49E-05
+Eubacterium sp. CAG:248	9.53E-05
+Porphyromonas crevioricanis	9.67E-05
+Veillonella tobetsuensis	9.77E-05
+[Clostridium] clostridioforme	9.80E-05
+[Clostridium] saccharolyticum	9.89E-05
+Barnesiella viscericola	9.97E-05
+uncultured Lachnospira sp.	9.99E-05
+Prevotella sp. S7-1-8	0.000100023
+Enterobacteria phage lambda	0.000100146
+Enterobacteria phage fiAA91-ss	0.000100676
+Turicibacter sp. H121	0.000100864
+Enterobacteria phage WPhi	0.000102193
+Prevotella timonensis	0.000103132
+Erysipelotrichaceae bacterium MTC7	0.000104439
+Ruminococcus sp. A254.MGS-254	0.000105271
+Rikenella microfusus	0.000105906
+Enterobacteria phage Sf101	0.000108639
+Intestinimonas butyriciproducens	0.000109081
+Prevotella sp. DNF00663	0.000109737
+Riemerella columbina	0.000110075
+Holdemania filiformis	0.000111042
+[Clostridium] bolteae	0.000111702
+Blautia sp. GD8	0.000112742
+[Eubacterium] siraeum	0.000115057
+Bacteroides sp. HPS0048	0.000117521
+Oscillospiraceae bacterium VE202-24	0.000117624
+Roseburia hominis	0.000118028
+Odoribacter laneus CAG:561	0.000119192
+Ruminococcus sp. CAG:55	0.000119428
+uncultured phage crAssphage	0.000124483
+uncultured Dorea sp.	0.000124888
+[Clostridium] symbiosum	0.000128535
+Porphyromonas bennonis	0.000128563
+Enterobacteria phage P2	0.000129316
+Firmicutes bacterium CAG:227	0.000129561
+Clostridium hathewayi CAG:224	0.000129951
+Ruminococcus obeum CAG:39	0.000130975
+Haemophilus sp. CCUG 60358	0.000132139
+Salmonella phage HK620	0.000132513
+Lachnospiraceae bacterium 7_1_58FAA	0.000133152
+Firmicutes bacterium CAG:65	0.000133452
+Bacteroidales bacterium H3	0.000133655
+Prevotella sp. P4-76	0.000135985
+Coprococcus comes CAG:19	0.000136767
+uncultured Eubacterium sp.	0.000138001
+Bacteroides barnesiae	0.000139674
+Tannerella sp. CAG:51	0.00014208
+Enterobacteria phage mEp460	0.000143696
+uncultured Oscillibacter sp.	0.000145647
+Alistipes finegoldii CAG:68	0.0001478
+Escherichia phage pro147	0.000148022
+bacterium LF-3	0.00014899
+Eubacterium sp. CAG:192	0.000150561
+Candidatus Bacteroides timonensis	0.000152309
+Prevotella sp. P5-125	0.000152544
+[Eubacterium] rectale	0.000155226
+Clostridium sp. SS2/1	0.000156722
+Prevotella marshii	0.000161542
+Lachnospiraceae bacterium CAG:25	0.000164533
+Prevotella amnii	0.000168342
+Coprococcus comes	0.000168416
+Lachnospiraceae bacterium 5_1_63FAA	0.000169262
+Clostridium sp. CAG:81	0.00017056
+Clostridiales bacterium VE202-01	0.000171407
+uncultured Flavonifractor sp.	0.00017172
+Lachnospiraceae bacterium 3_1_46FAA	0.000177958
+[Eubacterium] dolichum	0.000187262
+Roseburia inulinivorans	0.000194698
+uncultured Ruminococcus sp.	0.000196318
+[Eubacterium] hallii	0.00019685
+Bacteroides rodentium	0.000196913
+Clostridia bacterium UC5.1-2D9	0.000197596
+Ruminococcus faecis	0.000198121
+Clostridium sp. AT5	0.000199339
+Bacteroides acidifaciens	0.000200166
+uncultured Roseburia sp.	0.000201949
+Roseburia intestinalis	0.000203233
+Parabacteroides gordonii	0.000203406
+Clostridiales bacterium VE202-03	0.000205136
+Lachnospiraceae bacterium 2_1_58FAA	0.000205147
+Bacteroides intestinalis CAG:564	0.000205376
+Escherichia phage pro483	0.000209196
+Eubacterium hallii CAG:12	0.000209477
+Bacteroidales bacterium H9	0.000210573
+Coprococcus catus	0.000213088
+Lachnospiraceae bacterium 6_1_37FAA	0.000231392
+Prevotella disiens	0.00023476
+Parasutterella excrementihominis CAG:233	0.000241004
+Dialister invisus CAG:218	0.000245486
+Oscillibacter sp. ER4	0.000246884
+Bacteroides sp. D2	0.000255663
+Clostridium sp. ATCC 29733	0.000258793
+Bacteroides oleiciplenus	0.000259154
+Escherichia sp. KTE172	0.000260363
+Tyzzerella nexilis	0.000263135
+Coprococcus sp. HPP0048	0.000263367
+Eubacterium ventriosum	0.000267993
+Flavonifractor plautii	0.00029455
+Alistipes sp. HGB5	0.000295798
+Bacteroides sp. I48	0.000300794
+Bacteroides clarus CAG:160	0.000303053
+uncultured Coprococcus sp.	0.000304741
+Prevotella sp. P4-65	0.000304996
+Dialister invisus	0.000307221
+uncultured Blautia sp.	0.000308164
+Porphyromonas sp. 31_2	0.000315507
+Dorea longicatena	0.000321405
+Porphyromonas uenonis	0.000323477
+Dorea formicigenerans	0.000330201
+Clostridium sp. CAG:302	0.000335636
+Prevotella pallens	0.000338051
+Prevotella sp. CAG:520	0.000339062
+Bacteroides fragilis CAG:558	0.0003401
+Prevotella sp. C561	0.000340292
+Porphyromonas asaccharolytica	0.000345747
+Prevotella bivia	0.000346391
+Parabacteroides johnsonii	0.000346456
+Blautia obeum	0.000352579
+Bacteroides sp. CAG:443	0.000352906
+Klebsiella pneumoniae	0.000354284
+Ruminococcus sp. Marseille-P328	0.000361362
+Candidatus Alistipes marseilloanorexicus	0.000363775
+Roseburia sp. UNK.MGS-15	0.000364844
+Firmicutes bacterium CAG:24	0.00036728
+Bacteroides sp. 3_1_23	0.000385857
+Prevotella dentasini	0.000390691
+uncultured Anaerotruncus sp.	0.000412952
+Prevotella buccalis	0.000415271
+Parasutterella excrementihominis	0.000416335
+[Ruminococcus] torques	0.000417273
+Bacteroides sp. 1_1_14	0.000422189
+Bacteroides sp. UNK.MGS-13	0.000428811
+Parabacteroides sp. D25	0.000431157
+Bacteroides nordii	0.000443076
+Bacteroides stercorirosoris	0.000454287
+Anaerostipes hadrus	0.000467861
+Prevotella corporis	0.000473485
+Bacteroides thetaiotaomicron CAG:40	0.000478475
+Prevotella albensis	0.00048299
+Bacteroides sp. 1_1_30	0.000486364
+Bacteroides clarus	0.000499508
+Blautia sp. Marseille-P2398	0.000507764
+Ruminococcus sp. CAG:9	0.000508037
+Bacteroides sp. CAG:530	0.000516156
+Parabacteroides sp. CAG:2	0.000517731
+Firmicutes bacterium CAG:95	0.000524414
+Alistipes finegoldii	0.000532283
+Odoribacter sp. Marseille-P2698	0.000533262
+Bacteroides sp. D22	0.000533773
+Ruminococcus sp. 5_1_39BFAA	0.00054443
+Faecalibacterium sp. CAG:82	0.000548421
+Alistipes indistinctus	0.00055349
+uncultured Butyricicoccus sp.	0.000572142
+Burkholderiales bacterium 1_1_47	0.000584559
+Bacteroides ovatus CAG:22	0.000586314
+Clostridium sp. ATCC BAA-442	0.000591794
+Parabacteroides sp. 2_1_7	0.00060219
+Enterobacteria phage P88	0.000614708
+butyrate-producing bacterium SS3/4	0.000625127
+Parabacteroides goldsteinii	0.000626779
+Bacteroides sp. 2_1_22	0.000629135
+Firmicutes bacterium CAG:83	0.000631285
+Prevotella sp. CAG:1320	0.000652837
+[Ruminococcus] gnavus	0.000654008
+Coprobacillus sp. CAG:235	0.000669061
+Yersinia phage L-413C	0.000670788
+Bacteroides sp. D1	0.000680417
+Bacteroides sp. CAG:189	0.000708547
+Bacteroides sp. 3_1_19	0.000737718
+Clostridium perfringens	0.000739982
+Bacteroides fragilis CAG:47	0.000747862
+Porphyromonas somerae	0.000756132
+Bacteroides sp. 2_1_33B	0.000770141
+Bacteroides sp. N54.MGS-20	0.000780776
+Prevotella sp. 109	0.000799073
+Bilophila wadsworthia	0.000803918
+Ruminococcus callidus	0.000822441
+Lachnospiraceae bacterium 9_1_43BFAA	0.000825853
+Coprococcus sp. HPP0074	0.000837272
+Bacteroides gallinarum	0.000840302
+Bacteroides sp. 3_2_5	0.000843545
+Paraprevotella clara	0.000864432
+Parabacteroides phage YZ-2015a	0.000888644
+Prevotella baroniae	0.00089085
+Parabacteroides sp. D13	0.000936313
+Bacteroides sp. 3_1_13	0.000955129
+Butyricimonas virosa	0.000996144
+Bacteroides sp. UNK.MGS-14	0.001037459
+Porphyromonas gingivalis	0.001042783
+Bacteroides stercoris CAG:120	0.001103487
+Blautia wexlerae	0.001105974
+Firmicutes bacterium CAG:56	0.00114937
+Paraprevotella clara CAG:116	0.001157393
+Escherichia fergusonii	0.001195927
+Bacteroides salyersiae	0.001196562
+Alistipes obesi	0.001217231
+Parabacteroides merdae CAG:48	0.001220492
+Escherichia coli	0.001222277
+Alistipes shahii	0.00122533
+Bacteroides intestinalis	0.001255683
+Barnesiella intestinihominis	0.001336989
+Clostridium sp. CAG:43	0.001382908
+Haemophilus parainfluenzae	0.001396737
+Eubacterium sp. CAG:38	0.001482371
+Bacteroides uniformis CAG:3	0.001494961
+Parabacteroides sp. 20_3	0.001501954
+Odoribacter sp. N15.MGS-14	0.001521738
+Bacteroides eggerthii	0.001561691
+Ruminococcus sp. CAG:57	0.001572929
+Bacteroides plebeius	0.001577164
+Odoribacter sp. UNK.MGS-12	0.001644207
+Ruminococcus sp. N15.MGS-57	0.001675991
+Odoribacter splanchnicus CAG:14	0.001695545
+Firmicutes bacterium CAG:212	0.001705489
+Ruminococcus bicirculans	0.001708933
+Parabacteroides sp. D26	0.001764887
+Bacteroides ovatus	0.001767445
+Alistipes sp. AL-1	0.001781819
+Odoribacter sp. N54.MGS-14	0.001790609
+Alistipes sp. CAG:53	0.001804594
+Ruminococcus lactaris	0.001811074
+Bacteroides sp. D20	0.001838263
+Bacteroides sp. 2_2_4	0.001852636
+Alistipes onderdonkii	0.001945686
+Bacteroides dorei CAG:222	0.001988852
+Bacteroides sartorii	0.00199714
+Firmicutes bacterium CAG:129	0.002074798
+Cellulomonas carbonis	0.002093039
+Bacteroides cellulosilyticus	0.002187232
+Bacteroidia bacterium UC5.1-2G11	0.002319367
+Clostridium sp. CAG:492	0.002325936
+Bacteroides sp. 9_1_42FAA	0.002355707
+Prevotella sp. CAG:604	0.002371328
+Bacteroides sp. 1_1_6	0.002456308
+Bacteroides sp. 2_1_56FAA	0.002467416
+Firmicutes bacterium CAG:102	0.002510666
+Bacteroides sp. 2_1_16	0.002547918
+Bacteroides thetaiotaomicron	0.00255694
+Bacteroides fluxus	0.002560173
+Sinorhizobium sp. GL28	0.002594605
+Bacteroides finegoldii CAG:203	0.002595107
+uncultured Faecalibacterium sp.	0.002654134
+uncultured Bacteroides sp.	0.002899525
+Tannerella sp. 6_1_58FAA_CT1	0.002990621
+Bacteroides finegoldii	0.003049103
+Bacteroides sp. UW	0.00307608
+Bacteroides stercoris	0.003293949
+Firmicutes bacterium CAG:103	0.003588247
+Parabacteroides merdae	0.003616225
+Paraprevotella xylaniphila	0.003741551
+Clostridium sp. CAG:7	0.003778277
+Bacteroides xylanisolvens	0.003840072
+Escherichia sp. 3_2_53FAA	0.003990309
+Prevotella sp. CAG:732	0.004065704
+Bacteroides massiliensis	0.004087271
+Faecalibacterium prausnitzii	0.004091305
+Bacteroides faecis	0.004140669
+Bacteroides sp. 4_1_36	0.004323485
+Enterobacteria phage phiX174 sensu lato	0.004415171
+Bacteroides uniformis	0.00443747
+Prevotella stercorea	0.004480735
+Bacteroides coprocola	0.004539924
+Odoribacter splanchnicus	0.004768029
+Blautia sp. CAG:37	0.004823237
+Phascolarctobacterium sp. CAG:207	0.004855334
+Bacteroides fragilis	0.004868579
+Prevotella sp. KHD1	0.004955768
+Carnobacterium sp. N15.MGS-207	0.004959334
+Prevotella sp. CAG:386	0.00498462
+Prevotella sp. CAG:1092	0.00533405
+Parabacteroides distasonis	0.005413007
+Proteobacteria bacterium CAG:139	0.005661489
+Bacteroides sp. CAG:20	0.006170668
+Acinetobacter sp. N54.MGS-139	0.006274606
+Alistipes sp. CAG:29	0.006619218
+Bacteroides sp. 3_1_33FAA	0.006672481
+Bacteroides caccae CAG:21	0.008546294
+Eubacterium sp. CAG:76	0.008675406
+Bacteroides caccae	0.008906372
+Bacteroides coprophilus	0.009259712
+Alistipes putredinis CAG:67	0.010325506
+Bacteroides dorei	0.010741067
+Bacteroides sp. 3_1_40A	0.015214654
+Bacteroides vulgatus CAG:6	0.015800805
+Bacteroides sp. 4_3_47FAA	0.016940248
+Alistipes putredinis	0.032511795
+Bacteroides vulgatus	0.092019032
+Prevotella copri	0.170748195
+Prevotella copri CAG:164	0.272008237
